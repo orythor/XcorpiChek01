@@ -22,7 +22,7 @@ Tools stalker & security checker untuk Termux.
 
 ```bash
 pkg install git -y
-git clone https://github.com/XioNiV/XcorpiChek01
+git clone https://github.com/orythor/XcorpiChek01
 cd XcorpiChek01
 bash install.sh
 ```
